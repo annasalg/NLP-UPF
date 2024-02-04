@@ -20,5 +20,5 @@ Packages required:
 
 ### Data
 The txt files are automatically downloaded when the code is run using _gdown_.
-[!NOTE]
-If there was some problem with the download, the files are also provided in this repository as "mecano_lyrics.txt" and "tswift_lyrics.txt".
+>[!NOTE]
+>If there was some problem with the download, the files are also provided in this repository as "mecano_lyrics.txt" and "tswift_lyrics.txt".
