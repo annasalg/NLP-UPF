@@ -4,7 +4,7 @@ Code repository for Laura Moset Estruch & Anna Lívia Salgueiro's exercise on Zi
 
 ### Requirements
 
-The code is written using Python in Colab's version published on 2024-01-29.
+The code is written using Python in Colab's version published on 2024-01-29. Thus, the authors recommend also using Colab for easier and better performance.
 
 Packages required:
 * spacy
